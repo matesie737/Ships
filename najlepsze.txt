@@ -1,0 +1,10 @@
+Czarek 37
+maciek 30
+KArol 29
+adrian 27
+mateusz 27
+Andzej 22
+kamil 21
+wojtek 19
+kuba 14
+dawid 13
